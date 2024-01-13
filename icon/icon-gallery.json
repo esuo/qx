@@ -1,9 +1,17 @@
-{"name":"icon Gallery",
-  "description":"by lnln",
+{"name":"Icon Gallery",
+  "description":"by Lnlc",
   "icons":[
     {
       "name":"Google Voice",
       "url":"https:\/\/raw.githubusercontent.com\/lnlc\/qx\/main\/icon\/Google_Voice.png"
+    },
+    {
+      "name":"Google Voice", 
+      "url":"https:\/\/raw.githubusercontent.com\/lnlc\/qx\/main\/icon\/Google_Voice_icon.svg"
+    }, 
+    {
+      "name":"Icon-Name-3",
+      "url":"https:\/\/raw.githubusercontent.com\/crossutility\/Quantumult-X\/master\/icon-samples\/google.PNG"
     }
   ]
 }
